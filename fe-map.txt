@@ -1,0 +1,23 @@
+Basic Knowledge 
+- Internet
+- Http 
+- Browser 
+
+Basic code 
+- HTML 
+- CSS 
+- JavaScript 
+
+Create a project 
+- Portofolio 
+- E-book library 
+- Marketplace 
+
+Version Control System 
+- Using basic git 
+- Try collaboration 
+
+Repo hosting 
+- Github 
+
+
