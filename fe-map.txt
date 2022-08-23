@@ -17,7 +17,11 @@ Version Control System
 - Using basic git 
 - Try collaboration 
 
-Repo hosting 
-- Github 
+Basic Knowledge web security 
+Build tools 
+Pick a framework 
+
+
+
 
 
